@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta negra",
+    "description": "Camiseta de algodón",
+    "code": "ABC123",
+    "price": 45000,
+    "status": true,
+    "stock": 10,
+    "category": "Ropa",
+    "thumbnails": [
+      "foto1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Reloj Casio",
+    "description": "Reloj digital",
+    "code": "CAS001",
+    "price": 150000,
+    "status": true,
+    "stock": 10,
+    "category": "relojes",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Gomita Trululu",
+    "description": "Test",
+    "code": "X123",
+    "price": 500,
+    "status": true,
+    "stock": 20,
+    "category": "test",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Nike AirJordan",
+    "description": "Tenis",
+    "code": "ZP001",
+    "price": 200000,
+    "status": true,
+    "stock": 15,
+    "category": "Zapatos",
+    "thumbnails": []
+  }
+]
