@@ -44,5 +44,60 @@
     "stock": 15,
     "category": "Zapatos",
     "thumbnails": []
+  },
+  {
+    "id": 5,
+    "title": "Xbox 360",
+    "description": "Consola",
+    "code": "5",
+    "price": 980000,
+    "status": true,
+    "stock": 1,
+    "category": "Tecnologia",
+    "thumbnails": []
+  },
+  {
+    "id": 6,
+    "title": "Iphone 13",
+    "description": "Blanco",
+    "code": "6",
+    "price": 1600000,
+    "status": true,
+    "stock": 1,
+    "category": "Celular",
+    "thumbnails": []
+  },
+  {
+    "id": 7,
+    "title": "Iphone 14 pro max",
+    "description": "Azul",
+    "code": "7",
+    "price": 2300000,
+    "status": true,
+    "stock": 1,
+    "category": "Celular",
+    "thumbnails": []
+  },
+  {
+    "id": 8,
+    "title": "Iphone 15 mini",
+    "description": "Azul",
+    "code": "8",
+    "price": 2500000,
+    "status": true,
+    "stock": 2,
+    "category": "Celular",
+    "thumbnails": []
+  },
+  {
+    "id": 9,
+    "title": "coco",
+    "description": "fruta",
+    "code": "9",
+    "price": 8000,
+    "status": true,
+    "stock": 7,
+    "category": "frutas",
+    "thumbnails": []
   }
 ]

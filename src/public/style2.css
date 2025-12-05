@@ -1,0 +1,38 @@
+/* src/public/css/style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background: #f6f6f6;
+}
+
+.nav {
+  padding: 12px 16px;
+  background: #222;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+.nav-link {
+  color: #ddd;
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: background .15s, color .15s;
+}
+
+.nav-link:hover {
+  background: rgba(255,255,255,0.05);
+  color: #fff;
+}
+
+/* link activo */
+.nav-link.active {
+  background: #fff;
+  color: #222;
+  font-weight: 700;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
